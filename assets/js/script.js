@@ -26,3 +26,7 @@ function getRandomColour(){
     
     return colours[randomNumber];
 }
+
+// $(document).ready(function(){
+//     $('[data-toggle="tooltip"]').tooltip(); 
+// });
