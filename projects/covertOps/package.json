@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "by Nick Sheffield",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-add-src": "*",
+    "gulp-angular-templatecache": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clone": "*",
+    "gulp-combine-media-queries": "*",
+    "gulp-concat": "*",
+    "gulp-cssbeautify": "*",
+    "gulp-clean-css": "*",
+    "gulp-ng-annotate": "*",
+    "gulp-notify": "*",
+    "gulp-order": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-stylus": "*",
+    "gulp-uglify": "*"
+  },
+  "dependencies": {
+    "morgan": "*"
+  }
+}
